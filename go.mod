@@ -1,4 +1,4 @@
-module github.com/jershell/gox
+module github.com/jershell/gox2
 
 go 1.17
 
